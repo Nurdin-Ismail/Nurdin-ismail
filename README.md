@@ -1,6 +1,6 @@
 <h2>Hi there! 👋</h2>
 
-<p>I'm <strong>Nurdin</strong>, a passionate <strong>full-stack developer</strong> diving into the world of <strong>Odoo development</strong>. With a strong background in <strong>ReactJS, Python</strong>, and web technologies, I'm now exploring the capabilities of Odoo to build powerful business applications.</p>
+<p>I'm <strong>Nurdin</strong>,a passionate full-stack developer with a love for building both the frontend and backend of web applications. I'm skilled in ReactJS, Python, and various web technologies, creating everything from responsive user interfaces to robust backend systems. Recently, I've decided to dive into the world of Odoo development. I'm excited to explore how my existing knowledge can be leveraged to build powerful business applications within this platform, and I’m eager to learn the ins and outs of Odoo's unique ecosystem.</p>
 
 <h3>🚀 Skills & Expertise</h3>
 <ul>
