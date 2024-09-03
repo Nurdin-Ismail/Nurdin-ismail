@@ -1,24 +1,26 @@
-<h1 align="center"> there! 👋
- </br>
-</h1>
-<p align="center">I'm Nurdin, a passionate full-stack developer diving into the world of Odoo development. With a strong background in ReactJS, Python, and web technologies, I'm now exploring the capabilities of Odoo to build powerful business applications.</p>
+<h2>Hi there! 👋</h2>
+
+<p>I'm <strong>[Your Name]</strong>, a passionate <strong>full-stack developer</strong> diving into the world of <strong>Odoo development</strong>. With a strong background in <strong>ReactJS, Python</strong>, and web technologies, I'm now exploring the capabilities of Odoo to build powerful business applications.</p>
+
+<h3>🚀 Skills & Expertise</h3>
+<ul>
+  <li><strong>Frontend:</strong> ReactJS, HTML, CSS, JavaScript</li>
+  <li><strong>Backend:</strong> Python, Flask</li>
+  <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
+  <li><strong>Odoo:</strong> Custom module development, ORM, Owl components</li>
+  <li><strong>Others:</strong> Git, Docker, REST APIs</li>
+</ul>
+
+<h3>🌱 What I'm Learning</h3>
+<p>I'm currently focused on:</p>
+<ul>
+  <li>Building custom Odoo modules</li>
+  <li>Integrating Odoo with modern frontend frameworks</li>
+  <li>Understanding Odoo's ORM and backend functionalities</li>
+</ul>
 
 
 
-🚀 Skills & Expertise
-Frontend: ReactJS, HTML, CSS, JavaScript
-Backend: Python,Flask
-Databases: PostgreSQL, MySQL
-Odoo: Custom module development, ORM, Owl components
-Others: Git, Docker, REST APIs
-
-
-🌱 What I'm Learning
-I'm currently focused on:
-
-Building custom Odoo modules
-Integrating Odoo with modern frontend frameworks
-Understanding Odoo's ORM and backend functionalities
 
 ## Languages & Tools
 
