@@ -28,9 +28,9 @@
 
 
 <div class="badges-githubstats">
-  <p align="left">
+<!--   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Nurdin-ismail&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide=contribs&rank_icon=github&show_icons=true" alt="Nurdin's stats" height="165">
-  </p>
+  </p> -->
 </div>
 
 
