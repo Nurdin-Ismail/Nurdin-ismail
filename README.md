@@ -29,9 +29,7 @@
 
 <a href='https://github.com/Nurdin-Ismail/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/Nurdin-Ismail/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Nurdin-Ismail/github-stats-transparent/output/generated/languages.svg)
-
+![Nurdin-ismail's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin-ismail&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </a>
 
 
