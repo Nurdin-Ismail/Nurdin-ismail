@@ -1,6 +1,6 @@
 <h2>Hi there! 👋</h2>
 
-<p>I'm <strong>[Your Name]</strong>, a passionate <strong>full-stack developer</strong> diving into the world of <strong>Odoo development</strong>. With a strong background in <strong>ReactJS, Python</strong>, and web technologies, I'm now exploring the capabilities of Odoo to build powerful business applications.</p>
+<p>I'm <strong>Nurdin</strong>, a passionate <strong>full-stack developer</strong> diving into the world of <strong>Odoo development</strong>. With a strong background in <strong>ReactJS, Python</strong>, and web technologies, I'm now exploring the capabilities of Odoo to build powerful business applications.</p>
 
 <h3>🚀 Skills & Expertise</h3>
 <ul>
