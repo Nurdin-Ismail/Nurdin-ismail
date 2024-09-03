@@ -1,7 +1,6 @@
 <h1 align="center"> Hi, I'm ANurdin </br>
 </h1>
-<p align="center">Back end software engineer</p>
-<p align="center">Dream | Build | Transform</p>
+<p align="center">Full-Stack software engineer</p>
 
 ## Languages & Tools
 
