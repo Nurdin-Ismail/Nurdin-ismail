@@ -1,6 +1,24 @@
-<h1 align="center"> Hi, I'm Nurdin </br>
+<h1 align="center"> there! 👋
+ </br>
 </h1>
-<p align="center">Full-Stack software engineer</p>
+<p align="center">I'm Nurdin, a passionate full-stack developer diving into the world of Odoo development. With a strong background in ReactJS, Python, and web technologies, I'm now exploring the capabilities of Odoo to build powerful business applications.</p>
+
+
+
+🚀 Skills & Expertise
+Frontend: ReactJS, HTML, CSS, JavaScript
+Backend: Python,Flask
+Databases: PostgreSQL, MySQL
+Odoo: Custom module development, ORM, Owl components
+Others: Git, Docker, REST APIs
+
+
+🌱 What I'm Learning
+I'm currently focused on:
+
+Building custom Odoo modules
+Integrating Odoo with modern frontend frameworks
+Understanding Odoo's ORM and backend functionalities
 
 ## Languages & Tools
 
