@@ -1,6 +1,6 @@
 <h2>Hi there! 👋</h2>
 
-<p>I'm <strong>Nurdin</strong>,a passionate full-stack developer with a love for building both the frontend and backend of web applications. I'm skilled in ReactJS, Python, and various web technologies, creating everything from responsive user interfaces to robust backend systems. Recently, I've decided to dive into the world of Odoo development. I'm excited to explore how my existing knowledge can be leveraged to build powerful business applications within this platform, and I’m eager to learn the ins and outs of Odoo's unique ecosystem.</p>
+<p>I'm <strong>Nurdin</strong>,a passionate full-stack developer with a love for building both the frontend and backend of web applications. I'm skilled in ReactJS, Python, and various web technologies, creating everything from responsive user interfaces to robust backend systems. I've decided to dive into the world of Odoo development. I'm excited to explore how my existing knowledge can be leveraged to build powerful business applications within this platform, and I’m eager to learn the ins and outs of Odoo's unique ecosystem.</p>
 
 <h3>🚀 Skills & Expertise</h3>
 <ul>
@@ -22,13 +22,5 @@
 
 
 
-## Languages & Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-
-<div style="display: flex; gap: 40px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdin-ismail&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurdin-ismail&theme=radical&hide_border=false" alt="Nurdin's streak" height="165">
-</div>
 
